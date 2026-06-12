@@ -3,14 +3,14 @@
   "plugins": [
     {
       "name": "run",
-      "repo_url": "https://github.com/ashtom/entire-run",
+      "repo_url": "https://github.com/entireio/entire-run",
       "description": "Launch one of the agents enabled for Entire in the current repository",
       "official": false
     },
     {
       "name": "upgrade",
       "repo_url": "https://github.com/entireio/entire-upgrade",
-      "description": "Upgrade the system-installed entire binary",
+      "description": "Upgrade the system-installed Entire binary",
       "official": true
     }
   ]
