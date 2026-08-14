@@ -4,14 +4,14 @@
     {
       "name": "graph",
       "repo_url": "https://github.com/entireio/entire-graph",
-      "description": "Entity-level checkpoint context for Entire sessions",
+      "description": "Deterministic local code graph for symbol search, relationship tracing, and change-impact analysis",
       "official": true
     },
     {
       "name": "run",
       "repo_url": "https://github.com/entireio/entire-run",
       "description": "Launch one of the agents enabled for Entire in the current repository",
-      "official": false
+      "official": true
     },
     {
       "name": "upgrade",
