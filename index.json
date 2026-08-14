@@ -2,6 +2,12 @@
   "version": 1,
   "plugins": [
     {
+      "name": "graph",
+      "repo_url": "https://github.com/entireio/entire-graph",
+      "description": "Entity-level checkpoint context for Entire sessions",
+      "official": true
+    },
+    {
       "name": "run",
       "repo_url": "https://github.com/entireio/entire-run",
       "description": "Launch one of the agents enabled for Entire in the current repository",
