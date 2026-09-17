@@ -8,6 +8,12 @@
       "official": true
     },
     {
+      "name": "investigate",
+      "repo_url": "https://github.com/entireio/entire-investigate",
+      "description": "Run a multi-agent investigation against a topic, issue, or seed doc",
+      "official": true
+    },
+    {
       "name": "run",
       "repo_url": "https://github.com/entireio/entire-run",
       "description": "Launch one of the agents enabled for Entire in the current repository",
