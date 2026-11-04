@@ -20,6 +20,12 @@
       "official": true
     },
     {
+      "name": "rsl",
+      "repo_url": "https://github.com/entireio/entire-rsl",
+      "description": "Inspect the gittuf Reference State Log of branches, tags and Entire checkpoints, and verify them against gittuf policy",
+      "official": true
+    },
+    {
       "name": "run",
       "repo_url": "https://github.com/entireio/entire-run",
       "description": "Launch one of the agents enabled for Entire in the current repository",
