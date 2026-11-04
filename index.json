@@ -2,6 +2,15 @@
   "version": 1,
   "plugins": [
     {
+      "name": "aft",
+      "repo_url": "https://github.com/aft-page/plugins",
+      "description": "Deploy agent output to a live, shareable aft.page URL",
+      "platforms": [
+        "darwin",
+        "linux"
+      ]
+    },
+    {
       "name": "brain",
       "repo_url": "https://github.com/entireio/entire-brain",
       "description": "Build a local, inspectable repository brain from Entire session history",
