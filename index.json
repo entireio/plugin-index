@@ -32,6 +32,12 @@
       "official": true
     },
     {
+      "name": "stream",
+      "repo_url": "https://github.com/entireio/entire-stream",
+      "description": "Stream Claude Code, Pi, Droid and Cursor sessions to Entire, live and read-only",
+      "official": false
+    },
+    {
       "name": "upgrade",
       "repo_url": "https://github.com/entireio/entire-upgrade",
       "description": "Upgrade the system-installed Entire binary",
